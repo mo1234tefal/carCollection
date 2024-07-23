@@ -2,3 +2,5 @@ Honda
 t
 Toyota
 opel
+kia
+hyundai
